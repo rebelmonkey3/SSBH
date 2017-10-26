@@ -62,7 +62,6 @@ h2{
 }
 body {
   background-color: teal;
-
 }
 /*.social-media-icons {
   align-content: center;
@@ -75,6 +74,6 @@ body {
     text-align: center;
     text-decoration: none;
 }
-.header-back{
+.header-back {
  background-image: url('../smoke.jpg')
 }
